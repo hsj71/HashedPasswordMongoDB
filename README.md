@@ -89,7 +89,7 @@ If matched, user is granted access to dashboard.
 ---
 
 ### 🖼️ Interface Screens
-You can include actual screenshots of each page after uploading to your GitHub repo. For example:
+Actual screenshots of each page.
 
 <p align="center">
   <img src="https://github.com/hsj71/EncryptedPasswordMongoDB/blob/main/Screenshot%20(764).png" alt="View Merged PDFs" width="700"/>
